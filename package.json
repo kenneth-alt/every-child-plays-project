@@ -1,5 +1,6 @@
 {
   "name": "every-child-plays-project",
+  "type": "module",
   "version": "1.0.0",
   "description": "A guide to inclusive playgrounds in the city of Calgary",
   "main": "index.js",
