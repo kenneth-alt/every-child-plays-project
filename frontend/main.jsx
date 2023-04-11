@@ -5,7 +5,7 @@ import './index.css'
 const main = () => {
   return (
     <div>
-      
+      <h1>hello world!</h1>
     </div>
   )
 }
