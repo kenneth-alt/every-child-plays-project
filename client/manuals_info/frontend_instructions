@@ -1,0 +1,53 @@
+(1) Install "npx create-react-app ."
+
+(2) Start the app with "npm start"
+
+(3) Delete the the logo file as well as the code that pertains to the logo.
+
+(4) Delete the default [app.css]
+
+(5) Delete most of the [app.js] info
+
+(6) Once you are ready to import {Links}, {Routes}, and {Route},
+    install "npm i react-router-dom"
+
+(7) In [App.js], set up your <header></header> with logo, company name, and login/registration buttons.
+    (See [Header.js] file) (Because we will be importing this later.)
+
+(8) In [App.js], set up the body of the home page. Include photos, buttons, links, etc.
+    (See [Post.js] file) (Because we will be importing this later)
+
+(9) Create [Post.js] and [Header.js] files.
+    (a) Import the <body></body> into [Post.js]
+            -In your function, after <main>, type:
+            <Post />   
+
+
+        -In [Post.js]:
+            export default function Header(){
+                return(
+                    <body></body>
+                );
+            }
+
+    (b) Import the <header></header> into [Header.js]
+        -In [app.js], at the top of your code:
+            import Header from './Header.js';
+        -In your function, after <main>, type:
+            <Header />   
+
+
+        -In [Header.js]:
+            export default function Header(){
+                return(
+                    <header></header>
+                );
+            }
+(10) Format your [app.css] file as needed.
+
+(11) Time to utilize your "npm i react-router-dom"! We are going to create links and make the login/registration functional. 
+
+(12) In [app.js], you are going to:
+    import {Route, Routes} from "react-router-dom";
+
+(13) In [index.js], you are going to wrap <App /> with <BrowserRouter></BrowserRouter>. 

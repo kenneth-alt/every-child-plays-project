@@ -1,0 +1,224 @@
+[
+	{
+		"name": "Edworthy Park",
+		"location": "5050 Spruce Dr SW",
+		"latitude": 51.053052,
+		"longitude": -114.141731,
+		"description": "Edworthy Park is a large park in Calgary, Alberta, Canada. The park is located on the south shore of the Bow River, immediately west of the community of Wildwood.",
+		"pictures": ["https://www.calgary.ca/_layouts/15/cpweb/Assets/Common/Images/Edworthy-Park-landing-page/edworthy-park-families2.jpg"],
+		"accessibilityFeatures": ["Paved Pathways", "Ramps"],
+		"safetyFeatures": ["Fencing"],
+		"ageRange": "All Ages",
+		"reviews": [],
+		"neighbourhood": "Wildwood",
+		"quadrant": "SW"
+	},
+	{
+		"name": "Elliston Park",
+		"location": "1827 68 St SE",
+		"latitude": 51.044855,
+		"longitude": -113.969037,
+		"description": "Elliston Park is a large public park located in the southeast quadrant of Calgary, Alberta, Canada.",
+		"pictures": ["https://www.calgary.ca/_layouts/15/cpweb/Assets/Common/Images/elliston-park/elliston-park-header.jpg"],
+		"accessibilityFeatures": ["Paved Pathways", "Ramps"],
+		"safetyFeatures": ["Fencing"],
+		"ageRange": "All Ages",
+		"reviews": [],
+		"neighbourhood": "Red Carpet",
+		"quadrant": "SE"
+	},
+	{
+		"name": "Hidden Hut",
+		"location": "510 Heritage Dr SW",
+		"latitude": 50.979111,
+		"longitude": -114.099861,
+		"description": "Hidden Hut is a small park located in the southwest quadrant of Calgary, Alberta, Canada. The park is situated in the community of Acadia.",
+		"pictures": ["https://www.calgary.ca/_layouts/15/cpweb/Assets/Common/Images/hidden-hut-park/hidden-hut-park-header.jpg"],
+		"accessibilityFeatures": ["Paved Pathways"],
+		"safetyFeatures": ["Fencing"],
+		"ageRange": "All Ages",
+		"reviews": [],
+		"neighbourhood": "Acadia",
+		"quadrant": "SW"
+	},
+	{
+		"name": "South Glenmore Park",
+		"location": "8415 24 St SW",
+		"latitude": 50.979111,
+		"longitude": -114.099861,
+		"description": "South Glenmore Park is a large urban park in the southwest quadrant of Calgary, Alberta, Canada. The park is located on the south shore of the Glenmore Reservoir and is bordered by the communities of Bayview and Pump Hill.",
+		"pictures": ["https://www.calgary.ca/_layouts/15/cpweb/Assets/Common/Images/South-Glenmore-Park/south-glenmore-park-header.jpg"],
+		"accessibilityFeatures": ["Paved Pathways", "Ramps"],
+		"safetyFeatures": ["Fencing"],
+		"ageRange": "All Ages",
+		"reviews": [],
+		"neighbourhood": "Bayview and Pump Hill",
+		"quadrant": "SW"
+	},
+	{
+		"name": "North Glenmore Park",
+		"location": "7305 Crowchild Tr SW, Calgary, AB T3H 1B3",
+		"latitude": 51.00947,
+		"longitude": -114.13469,
+		"description": "North Glenmore Park is a large park in the southwest quadrant of Calgary, featuring multiple playgrounds, a water spray park, a tennis court, a lawn bowling club, and more.",
+		"pictures": [
+				"https://www.calgary.ca/CSPS/Parks/PublishingImages/Parks/locations/north-glenmore-park/north-glenmore-playground.jpg",
+				"https://www.calgary.ca/CSPS/Parks/PublishingImages/Parks/locations/north-glenmore-park/north-glenmore-spray-park.jpg"
+		],
+		"accessibilityFeatures": [
+				"Wheelchair accessible",
+				"Paved pathways",
+				"Accessible parking"
+		],
+		"safetyFeatures": [
+				"Fenced playground area",
+				"Security cameras",
+				"First aid station"
+		],
+		"ageRange": "All ages",
+		"reviews": [],
+		"neighbourhood": "North Glenmore",
+		"quadrant": "SW"
+	},
+	{
+		"name": "Ramsay Inclusive Playground",
+		"location": "1020 Bellevue Ave SE, Calgary, AB T2G 4L1",
+		"latitude": 51.03278,
+		"longitude": -114.03903,
+		"description": "Ramsay Inclusive Playground is a fully accessible playground in the southeast quadrant of Calgary, featuring a variety of play structures and equipment for children of all abilities.",
+		"pictures": [
+				"https://www.calgary.ca/CSPS/Parks/PublishingImages/Parks/locations/ramsay-inclusive-playground/ramsay-playground.jpg",
+				"https://www.calgary.ca/CSPS/Parks/PublishingImages/Parks/locations/ramsay-inclusive-playground/ramsay-tire-swing.jpg"
+		],
+		"accessibilityFeatures": [
+				"Fully accessible play structures",
+				"Poured-in-place rubber surfacing",
+				"Accessible parking"
+		],
+		"safetyFeatures": [
+				"Fenced playground area",
+				"Security cameras",
+				"First aid station"
+		],
+		"ageRange": "All ages",
+		"reviews": [],
+		"neighbourhood": "Ramsay",
+		"quadrant": "SE"
+	},
+	{
+		"name": "Sandy Beach",
+		"location": "4500 14A St SW, Calgary, AB T2T 2T6",
+		"latitude": 51.009018,
+		"longitude": -114.106888,
+		"description": "Sandy Beach is a beautiful park located on the Elbow River in the southwest quadrant of Calgary. It features a large grassy area, picnic tables, a playground, and a wading pool.",
+		"pictures": [
+		"https://www.calgary.ca/content/dam/www/localliving/locations/parks/images/sandy-beach-gallery-image-1.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+		"https://www.calgary.ca/content/dam/www/localliving/locations/parks/images/sandy-beach-gallery-image-3.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+		"https://www.calgary.ca/content/dam/www/localliving/locations/parks/images/sandy-beach-gallery-image-5.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg"
+		],
+		"accessibilityFeatures": [
+		"Accessible parking",
+		"Accessible washrooms",
+		"Accessible picnic tables"
+		],
+		"safetyFeatures": [
+		"Fenced playground",
+		"Supervised wading pool"
+		],
+		"ageRange": "0-12",
+		"reviews": [],
+		"neighbourhood": "Britannia",
+		"quadrant": "SW"
+	},
+	{
+		"name": "Somerset Water Park",
+		"location": "150 Somerset Dr SW, Calgary, AB T2Y 3C1",
+		"latitude": 50.894602,
+		"longitude": -114.083107,
+		"description": "Somerset Water Park is a fun and unique playground located in the southwest quadrant of Calgary. It features a splash pad, water cannons, a water bucket, and a play structure.",
+		"pictures": [
+		"https://calgaryplaygroundreview.files.wordpress.com/2011/06/somerset-water-park-2.jpg?w=1024",
+		"https://www.mommyconnections.ca/calgary/files/2013/07/IMG_1271.jpg",
+		"https://calgaryplaygroundreview.files.wordpress.com/2011/06/somerset-water-park-5.jpg?w=1024"
+		],
+		"accessibilityFeatures": [
+		"Accessible parking",
+		"Accessible washrooms"
+		],
+		"safetyFeatures": [
+		"Fenced playground",
+		"Supervised splash pad"
+		],
+		"ageRange": "2-12",
+		"reviews": [],
+		"neighbourhood": "Somerset",
+		"quadrant": "SW"
+	},
+	{
+		"name": "Ted Harrison",
+		"location": "100 14 Ave SW",
+		"latitude": 51.040300,
+		"longitude": -114.062964,
+		"description": "Ted Harrison is a small park located in the Beltline neighbourhood of Calgary. It features a playground, picnic area, and public washrooms.",
+		"pictures": ["https://www.calgary.ca/CSPS/Parks/PublishingImages/Parks%20and%20Pathways/Parks/Ted%20Harrison/Ted%20Harrison%20Park%201.jpg", "https://www.calgary.ca/CSPS/Parks/PublishingImages/Parks%20and%20Pathways/Parks/Ted%20Harrison/Ted%20Harrison%20Park%204.jpg"],
+		"accessibilityFeatures": ["wheelchair accessible playground", "adaptive swings"],
+		"safetyFeatures": ["fencing", "security cameras"],
+		"ageRange": "2-12",
+		"neighbourhood": "Beltline",
+		"quadrant": "SW"
+	},
+	{
+		"name": "Vivo",
+		"location": "11950 Country Village Link NE",
+		"latitude": 51.160495,
+		"longitude": -114.048407,
+		"description": "Vivo is a large indoor recreation centre in the community of Country Hills Village. It features a climbing wall, ice rinks, fitness equipment, and a large indoor playground.",
+		"pictures": ["https://www.myvivainc.com/wp-content/uploads/2018/09/IMG_3502-1024x768.jpg", "https://www.calgary.ca/CSPS/Parks/PublishingImages/Parks%20and%20Pathways/Parks/Vivo/Vivo%20Park%201.jpg"],
+		"accessibilityFeatures": ["wheelchair accessible playground", "elevator access to all levels"],
+		"safetyFeatures": ["24-hour security", "emergency response team on site"],
+		"ageRange": "0-12",
+		"reviews": [],
+		"neighbourhood": "Country Hills Village",
+		"quadrant": "NE"
+	},
+	{
+		"name": "Shouldice",
+		"location": "4900 Monserrat Dr NW",
+		"latitude": 51.074201,
+		"longitude": -114.158873,
+		"description": "Shouldice is a large sports park located in the community of Montgomery. It features multiple sports fields, a running track, and a large playground.",
+		"pictures": ["https://www.calgary.ca/CSPS/Parks/PublishingImages/Parks%20and%20Pathways/Parks/Shouldice/Shouldice%20Park%203.jpg", "https://www.calgary.ca/CSPS/Parks/PublishingImages/Parks%20and%20Pathways/Parks/Shouldice/Shouldice%20Park%204.jpg"],
+		"accessibilityFeatures": ["wheelchair accessible playground", "accessible sports fields"],
+		"safetyFeatures": ["fencing", "security cameras"],
+		"ageRange": "2-12",
+		"reviews": [],
+		"neighbourhood": "Montgomery",
+		"quadrant": "NW"
+	},
+	{
+		"name": "Thorncliffe Greenview",
+		"location": "5600 Centre St. N.",
+		"latitude": 51.10729,
+		"longitude": -114.07102,
+		"description": "Thorncliffe Greenview Playground is located at Thorncliffe Greenview Community Association in the northeast quadrant of Calgary. This playground features a large play structure with a slide, swings, and climbing features.",
+		"pictures": [
+			"https://example.com/images/thorncliffe-greenview/playground1.jpg",
+			"https://example.com/images/thorncliffe-greenview/playground2.jpg",
+			"https://example.com/images/thorncliffe-greenview/playground3.jpg"
+		],
+		"accessibilityFeatures": [
+			"Accessible parking",
+			"Paved pathways",
+			"Playground is visible from parking lot"
+		],
+		"safetyFeatures": [
+			"Surrounded by a fence",
+			"Rubber surface under play structure",
+			"Shade from nearby trees"
+		],
+		"ageRange": "2-12 years",
+		"reviews": [],
+		"neighbourhood": "Thorncliffe Greenview",
+		"quadrant": "NE"
+	}
+]

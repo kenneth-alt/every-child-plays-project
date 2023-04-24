@@ -1,0 +1,24 @@
+Precursor:
+    ReactJS is a simple, feature-rich, component based JavaScript UI library. It can be used to develop small applications, as well as big complex applications.
+        - It provides minimal and solid feature set to kick-start a web application.
+        - Examples of websites that are powered by React includes Facebook, Instagram, Netflix, Code Academy, Reddit, etc.
+
+Sources:
+    -https://create-react-app.dev/docs/getting-started/  
+
+    -https://www.codecademy.com/article/how-to-create-a-react-app  
+      
+    -https://www.codecademy.com/paths/web-development/tracks/front-end-applications-with-react/modules/react-development-setup-and-ravenous-part-1/informationals/ready-react-developer-tools  
+
+(1) npx create-react-app .
+        - With NodeJS/NPM installed on your machine, you can just run the following lines.
+        - The project layout should include many files, such as "node_modules", ".gitignore", "package.json", and a "src file".
+
+(2) npm start
+    - This allows you to view your app as you are editing it; runs your app in development mode. The page will reload whenever it detecs any code change in the source files. Warnings and errors can be seen in the console. 
+
+(3) npm i react-router-dom
+    - Contains bindings for using React Router in web applications.
+
+(4) npm i react-scripts@latest
+    - React Create App toolchain uses the react-scripts package to build and run the application. 
